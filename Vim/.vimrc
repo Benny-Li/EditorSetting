@@ -9,8 +9,8 @@ set noswapfile
 set hlsearch
 
 "##### TagList #####
-let Tlist_Sort_Type ="name"
-let Tlist_Exit_OnlyWindow =1
+let Tlist_Sort_Type = "name"
+let Tlist_Exit_OnlyWindow = 1
 let Tlist_Ctags_Cmd ="/usr/bin/ctags"
 
 "##### Ctags #####
