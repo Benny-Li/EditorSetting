@@ -5,9 +5,7 @@ set shiftwidth  =4
 set noexpandtab
 
 set nobackup
-
 set noswapfile
-
 set hlsearch
 
 "##### TagList #####
