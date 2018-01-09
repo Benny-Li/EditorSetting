@@ -1,7 +1,7 @@
 "##### Vim #####
-set tabstop     =4
-set softtabstop =4
-set shiftwidth  =4
+set tabstop     = 4
+set softtabstop = 4
+set shiftwidth  = 4
 set noexpandtab
 
 set nobackup
@@ -15,4 +15,4 @@ let Tlist_Ctags_Cmd ="/usr/bin/ctags"
 
 "##### Ctags #####
 set autochdir
-set tags =tags;
+set tags = tags;
